@@ -22,8 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/public
-.gitignore
-package-lock.json
-package.json
-tailwind.config.js
+G:\React\trip-plan-app\package.json
+G:\React\trip-plan-app\package-lock.json
