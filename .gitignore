@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 /public
-/.gitignore
-/package-lock.json
-/package.json
-/tailwind.config.js
+.gitignore
+package-lock.json
+package.json
+tailwind.config.js
